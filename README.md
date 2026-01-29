@@ -11,8 +11,16 @@ Amante del código limpio y la arquitectura minimalista.
 * **Backend:** Node.js, MySQL
 
 ### 🚀 Proyectos Actuales
-* **[Proyecto A](link):** Una breve descripción de una línea.
-* **[Proyecto B](link):** Herramienta minimalista para gestión de tareas.
+* **[AprenDev]([link](https://cetzdev.github.io/aprendev/)):** Pagina Web para aprender desarrollo web.
+
+#### Servidores Destacados en los que he trabajado FiveM
+* **Picados Roleplay** - 120/220 players
+* **Diamantados Roleplay** - 80/160 players
+* **Picante Roleplay** - 110/210 players
+* **Lithium Roleplay** - 60/110 players
+* **Valhalla Roleplay** - 70/110 players
+* **Star PVP** - 50/90 players
+* **Kapital Roleplay** - 80/100 players
 
 ---
 
