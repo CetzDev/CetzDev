@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm CetzDev 👋
 
-<!--
-**CetzDev/CetzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Directivo y desarrollador enfocado en crear soluciones simples a problemas complejos. 
+Amante del código limpio y la arquitectura minimalista.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+* **Lenguajes:** Lua, JavaScript, Python
+* **Frontend:** ReactJS, Next.js, TailwindCSS
+* **Backend:** Node.js, MySQL
+
+### 🚀 Proyectos Actuales
+* **[Proyecto A](link):** Una breve descripción de una línea.
+* **[Proyecto B](link):** Herramienta minimalista para gestión de tareas.
+
+---
+
+### 📫 Contacto
+* [LinkedIn](www.linkedin.com/in/martinmeza)
+* [Discord](cetzzz0800)
+
+---
+*"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
